@@ -1,0 +1,48 @@
+Medidronex - Flutter-Based Drone Delivery System
+
+Description: Medidronex is a state-of-the-art drone-based delivery system designed for handling emergency medical supplies such as organs, blood, and medicines. Built using Flutter, the app is highly responsive and user-friendly, with features that ensure quick access to critical supplies during emergencies. The app integrates live drone tracking, inventory management, and order placement, enabling seamless coordination between users and medical providers.
+
+App Contents and Features:
+
+Emergency Delivery:
+
+Prioritized drone deliveries for emergency cases.
+A helpline number is available for direct contact in emergency situations.
+Emergency deliveries are processed first, ensuring critical supplies like organs or blood reach hospitals or patients without delay.
+Disaster Relief and Flood Situations:
+
+A dedicated section to handle deliveries during natural disasters like floods.
+Volunteer Coordination: Users and volunteers can register and assist in disaster relief efforts. Volunteers can track drones and assist with distribution in affected areas.
+Order Placement with Map Pinning:
+
+Users can place an order by pinning their location on an interactive map section.
+The map allows users to specify the exact delivery point for drones, making it easy for medical supplies to reach the right destination quickly.
+Orders and Delivery Details:
+
+Detailed order management, including order status, delivery ETA, and real-time drone tracking.
+Users can track the drone's path and receive notifications on the status of their delivery.
+Inventory Management:
+
+Blood Stock: Displays available blood units categorized by blood group. Users can check the availability of specific blood types and place orders accordingly.
+Medicine Stock: Shows the current inventory of essential medicines, allowing users to place orders based on availability.
+Organ Stock: Provides a real-time view of available organs ready for transplant. The system ensures transparency and quick access to vital resources.
+Drone Live Tracking:
+
+Real-time drone tracking using Google Maps integration. Users can follow their delivery drones as they navigate to the designated delivery point.
+Real-time updates and notifications on the status of the delivery.
+Volunteer Section:
+
+A special feature for volunteers who want to assist during emergencies, especially in disaster situations.
+Volunteers can monitor drones, assist with deliveries, and help distribute supplies to affected areas.
+User-Friendly Interface:
+
+The app's interface is designed with simplicity in mind, making it easy for both medical professionals and patients to use.
+A responsive design ensures compatibility across various mobile devices.
+Much More:
+
+The app features several additional functionalities, including automatic emergency alerts, drone charging station information, patient notifications post-delivery, and environmental monitoring for weather forecasts.
+Technology Stack:
+
+Flutter: Cross-platform development for a smooth, responsive app experience on both Android and iOS.
+Firebase: Real-time notifications and data syncing to ensure users and medical teams are always updated.
+Google Maps API: For map pinning, live drone tracking, and real-time location management.
